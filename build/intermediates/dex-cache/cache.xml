@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\android_studio\the-tech-frontier-app-master1\app\libs\android-support-v7-recyclerview.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="95c892d244f49414bbdf92c2235a32ea06bc68aa">
+        <dex dex="D:\android_studio\the-tech-frontier-app-master1\app\build\intermediates\pre-dexed\debug\android-support-v7-recyclerview-c8191bc3d2ab37b89f5423f0f8be22a0333fa305.jar" />
+    </item>
+    <item
+        jar="D:\android_studio\the-tech-frontier-app-master1\app\libs\volley.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="b81c6be00d9f497f68cb501a08085ea4a76f50f3">
+        <dex dex="D:\android_studio\the-tech-frontier-app-master1\app\build\intermediates\pre-dexed\debug\volley-b08a85e4c074f6cd477cd2292dd6fa983ff842ca.jar" />
+    </item>
+    <item
+        jar="D:\android_studio\the-tech-frontier-app-master1\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="D:\android_studio\the-tech-frontier-app-master1\app\build\intermediates\pre-dexed\debug\classes-1be7be628dbb0bc416fb5c72f41dc4cdf681d9c2.jar" />
+    </item>
+    <item
+        jar="D:\android_studio\the-tech-frontier-app-master1\app\libs\umeng-update-v2.6.0.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="7bfeea30c4995f90a4374ce4177772a4579f2797">
+        <dex dex="D:\android_studio\the-tech-frontier-app-master1\app\build\intermediates\pre-dexed\debug\umeng-update-v2.6.0.1-38a7698ec6d82862bcb2f4cba755eb5a2819926c.jar" />
+    </item>
+    <item
+        jar="D:\android_studio\the-tech-frontier-app-master1\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="D:\android_studio\the-tech-frontier-app-master1\app\build\intermediates\pre-dexed\debug\classes-e39377c3714d75a057ee4f6c3e353e66a9edcee8.jar" />
+    </item>
+    <item
+        jar="D:\android_studio\the-tech-frontier-app-master1\app\libs\picasso-2.5.2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="D:\android_studio\the-tech-frontier-app-master1\app\build\intermediates\pre-dexed\debug\picasso-2.5.2-50c575ee553bc72d2000c8e560d64ce8ccea6037.jar" />
+    </item>
+    <item
+        jar="D:\android_studio\the-tech-frontier-app-master1\app\libs\weibosdkcore.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="119e2034c8db764d5742ec1cdbcc4aa6bdf85e7a">
+        <dex dex="D:\android_studio\the-tech-frontier-app-master1\app\build\intermediates\pre-dexed\debug\weibosdkcore-ccf67f60963a9ff9e711fdeca02a2fb104f456ae.jar" />
+    </item>
+    <item
+        jar="D:\android_studio\android-sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="D:\android_studio\the-tech-frontier-app-master1\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-6cfc6e4390472d44278d9f5b3030b47ee6482263.jar" />
+    </item>
+    <item
+        jar="D:\android_studio\the-tech-frontier-app-master1\app\libs\umeng-analytics-v5.5.2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ccd91de87887bdd320b6d2849891886fd116f1ac">
+        <dex dex="D:\android_studio\the-tech-frontier-app-master1\app\build\intermediates\pre-dexed\debug\umeng-analytics-v5.5.2-48a4eeb4187c3c411a60ef70dd62aebb447b16c9.jar" />
+    </item>
+    <item
+        jar="D:\android_studio\the-tech-frontier-app-master1\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="D:\android_studio\the-tech-frontier-app-master1\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-2dd412dc2e494d0de4e44b06ead4e72509663c72.jar" />
+    </item>
+
+</items>
